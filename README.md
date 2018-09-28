@@ -1,4 +1,4 @@
-#Sample Android App That Uses OpenCV Without OpenCVManager
+# Sample Android App That Uses OpenCV Without OpenCVManager
 
 This Android Studio sample project uses OpenCV without its Java wrapper and without OpenCVManager.
 
